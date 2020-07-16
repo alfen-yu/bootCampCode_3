@@ -6,6 +6,7 @@ function App() {
     <div>
     <Error errorName="Trojan horse"/>
     <Error errorName="Nemucod"/>
+    <Error errorName="Gh0st"/>
     </div>
   );
 }
